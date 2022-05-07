@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>Examen-Unida3</title>
+		<title>BEBIDAS</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="/css/main.css" />
@@ -20,22 +20,19 @@
 				<!-- Intro -->
 					<div id="intro">
 						<h1>Esto es:<br />
-						Los mejores antiheroes</h1>
-						<p><img src="images/Dead1.jpg" alt="" /></a></p>
+						EL PARAISO DEL ALCOHOL</h1>
+						<p><img src="images/IMGC1.PNG" alt="" /></a></p>
 						<ul class="actions">
 							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
 						</ul>
 					</div>
 
-				<!-- Header -->
-					<header id="header">
-						<a href="Apivista.blade.php" class="logo">API</a>
-					</header>
+				
 
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li class="active"><a href="index.html">Antiheroes</a></li>
+							<li class="active"><a href="index.html">Tipos de bebidas</a></li>
 						</ul>
 						<ul class="icons">
 							<li><a href="https://www.facebook.com/osvaldo.avilesguzman.3" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
@@ -50,12 +47,12 @@
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<span class="date"><img src="images/Dead3.gif" alt="" /></span>
-									<h2><a href="#">Descripcion:<br />
-									Deadpool</a></h2>
-									<p>Deadpool es una película de superhéroes estadounidense basada en el personaje de Marvel Comics del mismo nombre y dirigida por Tim Miller. La película es un spin-off derivado de los X-Men protagonizada por Ryan Reynolds, En Deadpool, después de ser sometido a un experimento que deja a Wade Wilson con nuevas habilidades y con un retorcido sentido del humor, Wilson persigue al hombre que casi destrozó su vida.<br>Basado en el anti-héroe menos convencional de Marvel Cómics, Deadpool narra el origen de este ex-agente de las fuerzas especiales, reconvertido en mercenario, que tras pasar por un cruel experimento adquiere poderes sobrenaturales de curación y otras sorprendentes cualidades.</p>
+									<span class="date"><img src="images/IMGC2.gif" alt="" /></span>
+									<h2><a href="#">Informacion:<br />
+									Tequila</a></h2>
+									<p>El tequila es una bebida de origen ancestral, que se ha producido desde el siglo XVI (Aprox 1538) y que toma el nombre de la región donde nace. Tequila es por tanto también el nombre de la ciudad que dio origen a esta agua ardiente y donde se encuentran un gran número de fábricas productoras de la bebida.</p>
 								</header>
-								<a href="#" class="image main"><img src="images/Dead2.gif" alt="" /></a>
+								<a href="#" class="image main"><img src="images/IMGC3.jpg" alt="" /></a>
 								<ul class="actions special">
 									<li><a href="#" class="button large">Regresar</a></li>
 								</ul>
@@ -66,97 +63,73 @@
 								<article>
 									<header>
 										<span class="date"></span>
-										<h2><a href="#">Venom<br />
+										<h2><a href="#">RON<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/Venom1.gif" alt="" /></a>
-									<p>Venom es una película de superhéroes estadounidense, el pesonaje pertence al universo de marvel el cual es un antagonista de Spider-Man, es uni de sus contrincantes mas famosos y mas querido por el publico</p>
+									<a href="#" class="image fit"><img src="images/IMGC4.jpg" alt="" /></a>
+									<p>El ron es una bebida alcohólica, elaborada a partir de la fermentación y destilación de la melaza o el jugo de la caña de azúcar. La mayoría de su producción se encuentra en las Américas, y concretamente el Caribe, aunque también se da en otros países como las Filipinas o la India.​</p>
 									<ul class="actions special">
-										<li><a href="venom" class="button">Saber mas</a></li>
+										<li><a href="" class="button">.</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
 										<span class="date"></span>
-										<h2><a href="#">Logan<br />
+										<h2><a href="#">WHISKY<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/Logan1.gif" alt="" /></a>
-									<p>Es una película estadounidense de 2017 y la última de la trilogía de Wolverine, basada en el personaje de Wolverine, de Marvel Comics,</p>
+									<a href="#" class="image fit"><img src="images/IMGC5.jpg" alt="" /></a>
+									<p>El whisky, whiskey, wiski​ o güisqui​ es una bebida alcohólica obtenida por la destilación de la malta fermentada de cereales como cebada, trigo, centeno y maíz, y su posterior añejamiento en barriles de madera, tradicionalmente de roble blanco.</p>
 									<ul class="actions special">
-										<li><a href="logan" class="button">Saber mas</a></li>
+										<li><a href="" class="button">.</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
 										<span class="date"></span>
-										<h2><a href="#">Daredevil<br />
+										<h2><a href="#">MEZCAL<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/Dare1.gif" alt="" /></a>
-									<p>Daredevil, es una serie de televisión estadounidense de género dramático y acción, creada por Drew Goddard para el servicio de streaming, Netflix, y basada en el personaje de Marvel Comics, del mismo nombre. Está ambientada en el Universo cinematográfico de Marvel</p>
+									<a href="#" class="image fit"><img src="images/IMGC6.jpg" alt="" /></a>
+									<p>El término mezcal tiene tres acepciones, en la actualidad: En su sentido primigenio, se refiere al alimento obtenido de la cocción del tallo y de la base de las hojas de esta planta. Es el nombre común de algunas especies de maguey o agave, en México.</p>
 									<ul class="actions special">
-										<li><a href="daredevil" class="button">Saber mas</a></li>
+										<li><a href="" class="button">.</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
 										<span class="date"></span>
-										<h2><a href="#">Punisher<br />
+										<h2><a href="#">VINO<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/Puni2.gif" alt="" /></a>
-									<p> The Punisher es una serie de televisión estadounidense creada por Steve Lightfoot para el servicio de streaming, basada en el personaje de Marvel Comics, Punisher. Está ambientada en el Universo cinematográfico de Marvel, compartiendo continuidad con las películas de la franquicia, y otras series de televisión</p>
+									<a href="#" class="image fit"><img src="images/IMGC7.jpg" alt="" /></a>
+									<p> El vino es una bebida hecha de uva, mediante la fermentación alcohólica de su mosto o zumo.​ La fermentación se produce por la acción metabólica de levaduras, que transforman los azúcares naturales del fruto en etanol y gas en forma de dióxido de carbono.</p>
 									<ul class="actions special">
-										<li><a href="punisher" class="button">Saber mas</a></li>
+										<li><a href="" class="button">.</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
 										<span class="date"></span>
-										<h2><a href="#">Ghost Rider<br />
+										<h2><a href="#">PULQUE<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/Ghost3.gif" alt="" /></a>
-									<p>Ghost Rider es una película de superhéroes sobrenatural del 2007</p>
+									<a href="#" class="image fit"><img src="images/IMGC8.jpg" alt="" /></a>
+									<p>El pulque es una bebida fermentada tradicional de México, cuyo origen es prehispánico y que se elabora a partir de la fermentación del maguey —popularmente conocido en México como aguamiel—, del agave o maguey, en particular de dos tipos, por esa razón ambos llamados maguey pulquero: Agave salmiana y Agave atrovirens.</p>
 									<ul class="actions special">
-										<li><a href="ghostrider" class="button">Saber mas</a></li>
+										<li><a href="" class="button">.</a></li>
 									</ul>
 								</article>
 								<article>
 									<header>
 										<span class="date"></span>
-										<h2><a href="#">King Shark<br />
+										<h2><a href="#">CERVEZA<br />
 										</a></h2>
 									</header>
-									<a href="#" class="image fit"><img src="images/King1.gif" alt="" /></a>
-									<p>King Shark es un supervillano ficticio que aparece en los cómics publicados por DC Comics, además de ser uno de los villanos del elenco de Aquaman. El personaje fue creado por el escritor Karl Kesel</p>
+									<a href="#" class="image fit"><img src="images/IMGC9.jpg" alt="" /></a>
+									<p>La cerveza es una bebida alcohólica, no destilada, de sabor amargo, que se fabrica con granos de cebada germinados u otros cereales cuyo almidón se fermenta en agua con levadura y se aromatiza a menudo con lúpulo, entre otras plantas.</p>
 									<ul class="actions special">
-										<li><a href="kingshark" class="button">Saber mas</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date"></span>
-										<h2><a href="#">Red Hood<br />
-										</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/Red2.gif" alt="" /></a>
-									<p>Red Hood es un alias que han portado varios personajes de la editorial DC Comics. El más conocido de todos es Jason Todd, quien asume la identidad de Red Hood en la continuidad principal del Universo DC</p>
-									<ul class="actions special">
-										<li><a href="redhood" class="button">Saber mas</a></li>
-									</ul>
-								</article>
-								<article>
-									<header>
-										<span class="date"></span>
-										<h2><a href="#">Spawn<br />
-										</a></h2>
-									</header>
-									<a href="#" class="image fit"><img src="images/Spawn1.gif" alt="" /></a>
-									<p>Spawn es un personaje ficticio, un antihéroe, su primera aparición fue en Spawn #1. Spawn sigue apareciendo en un cómic mensual del mismo nombre publicado por la compañía estadounidense Image Comics. Creado por Todd McFarlane</p>
-									<ul class="actions special">
-										<li><a href="spawn" class="button">Saber mas</a></li>
+										<li><a href="" class="button">.</a></li>
 									</ul>
 								</article>
 							</section>
